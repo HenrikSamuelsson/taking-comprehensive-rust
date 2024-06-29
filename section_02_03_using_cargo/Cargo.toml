@@ -1,5 +1,5 @@
 [package]
-name = "exercise_section_02_03"
+name = "section_02_03_using_cargo"
 version = "0.1.0"
 edition = "2021"
 
