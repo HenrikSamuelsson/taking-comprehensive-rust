@@ -1,0 +1,6 @@
+[package]
+name = "section_05_06_exercise_fibonacci"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
